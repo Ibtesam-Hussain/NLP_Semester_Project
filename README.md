@@ -120,8 +120,5 @@ PY
 - If you plan to keep interactive widgets outputs in the notebook (e.g., from ipywidgets), export or clear widget outputs before pushing to GitHub or make sure `metadata.widgets` contains valid `state` entries for each widget manager entry.
 - Keep the `.bak` pattern in `.gitignore` to avoid accidentally committing backups. Backups are helpful, but shouldn't be tracked.
 
----
 
-##  License & contact
-If you need any change to the README or want me to add a short project summary for the repository home page, let me know.
 
